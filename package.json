@@ -6,6 +6,6 @@
   "version": "0.0.1",
   "description": "A simple markov chain generator based off donjon.bin",
   "main": "index.js",
-  "author": "Calob Humble <humble.calob@protonmail.com>",
+  "author": "Calob Humble <cshumble@protonmail.com>",
   "license": "MIT"
 }
