@@ -2,6 +2,8 @@
 
 > Simple word generator based on markov chains.
 
+![Name Generator Demo](./example/markov-chain-demo.gif)
+
 ## Install
 
 TODO: Upload to package managers, then update this section.  NPM and Yarn
