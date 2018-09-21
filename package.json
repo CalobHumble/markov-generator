@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  },
+  "name": "markov-generator",
+  "version": "0.0.1",
+  "description": "A simple markov chain generator based off donjon.bin",
+  "main": "index.js",
+  "author": "Calob Humble <humble.calob@protonmail.com>",
+  "license": "MIT"
+}
